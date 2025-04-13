@@ -1,50 +1,42 @@
 # CIEE-IHC
 ## Cronograma
 
-| Sprint | Período           | Atividade                                                                                         | Responsáveis              | Status       |
-|--------|--------------------|---------------------------------------------------------------------------------------------------|---------------------------|--------------|
-| 1      | 05/04 - 12/04      | Reunião de revisão das heurísticas                                                               | Todos                     | ✅    |
-| 1      | 05/04 - 12/04      | Reunião de planejamento e elaboração da prévia do questionário                                   | Todos                     | ✅    |
-| 1      | 05/04 - 12/04      | Estudo e análise detalhada da aplicação (CIEE)                                                   | Todos                     | ✅    |
-| 1      | 05/04 - 12/04      | Elaboração do cronograma do projeto                                                              | Gustavo                   | ✅      |
-| 1      | 05/04 - 12/04      | Elaboração dos slides de apresentação do Horizonte                                               | Todos                     | ✅    |
-| 1      | 05/04 - 12/04      | Organização dos slides de apresentação do Horizonte                                              | Gustavo, Dylan            | ✅    |
+### 🏁 Sprint 1 (05/04 - 13/04)
+Período          | Atividade                                                                                        | Responsáveis              | Status       |
+-----------------|--------------------------------------------------------------------------------------------------|---------------------------|--------------|
+05/04 - 12/04    | Elaboração do cronograma do projeto                                                              | Gustavo e Sophia          | ✅    |
+05/04 - 12/04    | Estudo e análise detalhada da aplicação (CIEE)                                                   | Todos                     | ✅    |
+10/04 - 13/04    | Elaboração dos slides de apresentação do Horizonte                                               | Artur, Dylan, Gustavo e Sophia   | ✅    |
+12/04 - 12/04    | Reunião de planejamento e elaboração da prévia do questionário                                   | Todos                     | ✅    |
 
-| Sprint | Período           | Atividade                                                                                         | Responsáveis              | Status       |
-|--------|--------------------|---------------------------------------------------------------------------------------------------|---------------------------|--------------|
-| 2      | 12/04 - 19/04      | Escolha da ferramenta usada para elaboração do questionário                                      | Todos                     |  ⏳ |
-| 2      | 12/04 - 19/04      | Horizonte (Apresentação parcial dos trabalhos)                                                   | Todos                     | ✅    |
-| 2      | 12/04 - 19/04      | Envio da prévia do questionário para a validação do Professor Sérgio                            | Sophia                    | ⛔     |
+### 🏁 Sprint 2 (14/04 - 21/04)
+Período          | Atividade                                                                                        | Responsáveis              | Status       |
+-----------------|--------------------------------------------------------------------------------------------------|---------------------------|--------------|
+14/04 - 14/04    | Horizonte (Apresentação parcial dos trabalhos)                                                   | Artur, Gustavo, Lucas e Mateus | ✅    |
+14/04 - 16/04    | Envio do questionário para a validação do Professor Sérgio                                       | Sophia                    | ⛔   |
+16/04 - 21/04    | Possíveis correções do questionário                                                              | Todos                     | ⛔   |
 
-| Sprint | Período           | Atividade                                                                                         | Responsáveis              | Status       |
-|--------|--------------------|---------------------------------------------------------------------------------------------------|---------------------------|--------------|
-| 3      | 19/04 - 26/04      | Possíveis correções no questionário de acordo com o feedback do professor                       | Todos                     | ⛔     |
-| 3      | 19/04 - 26/04      | Disponibilização do questionário para os usuários                                                | Mateus                    | ⛔     |
+### 🏁 Sprint 3 (22/04 - 13/05)
+Período          | Atividade                                                                                        | Responsáveis              | Status       |
+-----------------|--------------------------------------------------------------------------------------------------|---------------------------|--------------|
+22/04 - 05/05    | Abertura do questionário para respostas                                                          | Mateus                     | ⛔    |
+05/05 - 07/05    | Batalha #1 (Até território 9)                                                                    | Todos                     | ⛔     |
+05/05 - 13/05    | Análise dos dados do questionário no R                                                           | Todos                  | ⛔   |
 
-| Sprint | Período           | Atividade                                                                                         | Responsáveis              | Status       |
-|--------|--------------------|---------------------------------------------------------------------------------------------------|---------------------------|--------------|
-| 4      | 05/05 - 12/05      | Batalha #1 (Até território 9)                                                                    | Todos                     | ⛔     |
-| 4      | 05/05 - 12/05      | Fechamento do questionário                                                                       | Artur                     | ⛔     |
+### 🏁 Sprint 4 (14/05- 04/06)
+Período          | Atividade                                                                                        | Responsáveis              | Status       |
+-----------------|--------------------------------------------------------------------------------------------------|---------------------------|--------------|
+14/05 - 14/05    | Reunião para inicialização da prototipação no Figma e elaboração da apresentação parcial         | Todos                     | ⛔    |
+14/05 - 04/06    | Prototipação no Figma                                                                            | Todos                     | ⛔    |
+16/05 - 18/05    | Elaboração dos slides de apresentação do Horizonte                                               | Artur, Lucas e Mateus     | ⛔    |
+19/05 - 21/05    | Caminhada (Apresentação parcial dos trabalhos)                                                   | Dylan, Gustavo, Sophia   | ⛔    |
 
-| Sprint | Período           | Atividade                                                                                         | Responsáveis              | Status       |
-|--------|--------------------|---------------------------------------------------------------------------------------------------|---------------------------|--------------|
-| 5      | 12/05 - 19 ou 26/05| Elaboração dos slides de apresentação 'Caminhada'                                               | Todos                     | ⛔     |
-| 5      | 12/05 - 19 ou 26/05| Organização dos slides de apresentação do 'Caminhada'                                           | Lucas, Mateus             | ⛔     |
-| 5      | 12/05 - 19 ou 26/05| Fechamento do questionário                                                                       | Sophia                    | ⛔     |
-| 5      | 12/05 - 19 ou 26/05| Análise dos dados do questionário no R                                                           | A definir                 | ⛔     |
-
-| Sprint | Período           | Atividade                                                                                         | Responsáveis              | Status       |
-|--------|--------------------|---------------------------------------------------------------------------------------------------|---------------------------|--------------|
-| 6      | 26/05 - 02/06      | Começo da prototipação das melhorias no Figma                                                   | Todos                     | ⛔     |
-
-| Sprint | Período           | Atividade                                                                                         | Responsáveis              | Status       |
-|--------|--------------------|---------------------------------------------------------------------------------------------------|---------------------------|--------------|
-| 7      | 02/06 - 09/06      | Batalha #2 (Até território 12)                                                                   | Todos                     | ⛔     |
-| 7      | 02/06 - 09/06      | Continuação da prototipação                                                                      | Todos                     | ⛔     |
-
-| Sprint | Período           | Atividade                                                                                         | Responsáveis              | Status       |
-|--------|--------------------|---------------------------------------------------------------------------------------------------|---------------------------|--------------|
-| 8      | 16/06 - 30/06      | Elaboração dos slides de apresentação do rito final                                             | Todos                     | ⛔     |
-| 8      | 16/06 - 30/06      | Organização dos slides de apresentação do rito final                                            | Gustavo                   | ⛔     |
-| 8      | 16/06 - 30/06      | Conclusão da prototipação                                                                        | Todos                     | ⛔     |
-| 8      | 16/06 - 30/06      | Apresentação final dos projetos (Rito Final)                                                    | Todos                     | ⛔     |
+### 🏁 Sprint 5 (05/06- 30/06)
+Período          | Atividade                                                                                        | Responsáveis              | Status       |
+-----------------|--------------------------------------------------------------------------------------------------|---------------------------|--------------|
+05/06 - 19/06    | Finalização da prototipação                                                                      | Todos                     | ⛔    |
+09/06 - 11/06    | Batalha #2 (Até território 12)                                                                   | Todos                     | ⛔    |
+19/06 - 26/06    | Análise do projeto final com os usuários                                                         | Dylan, Lucas e Sophia     | ⛔    |
+26/06 - 26/06    | Reunião de análise final do projeto e elaboração da apresentação                                 | Todos                     | ⛔    |
+26/06 - 28/06    | Elaboração dos slides de apresentação final                                                      | Todos    | ⛔    |
+30/06 - 30/06    | Rito final (Apresentação final do projeto    )                                                   | Todos  | ⛔    |
