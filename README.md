@@ -13,12 +13,12 @@ Período          | Atividade                                                   
 Período          | Atividade                                                                                        | Responsáveis              | Status       |
 -----------------|--------------------------------------------------------------------------------------------------|---------------------------|--------------|
 14/04 - 14/04    | Horizonte (Apresentação parcial dos trabalhos)                                                   | Artur, Gustavo, Lucas e Mateus | ✅    |
-14/04 - 16/04    | Envio do questionário para a validação do Professor Sérgio                                       | Sophia                    | ⛔   |
-16/04 - 21/04    | Possíveis correções do questionário                                                              | Todos                     | ⛔   |
+14/04 - 16/04    | Envio do questionário para a validação do Professor Sérgio                                       | Sophia                    | ✅   |
 
 ### 🏁 Sprint 3 (22/04 - 13/05)
 Período          | Atividade                                                                                        | Responsáveis              | Status       |
 -----------------|--------------------------------------------------------------------------------------------------|---------------------------|--------------|
+22/04 - 23/05    | Possíveis correções do questionário de acordo com o feedback do professor                                                        | Todos                     | ⛔   |
 22/04 - 05/05    | Abertura do questionário para respostas                                                          | Mateus                     | ⛔    |
 05/05 - 07/05    | Batalha #1 (Até território 9)                                                                    | Todos                     | ⛔     |
 05/05 - 13/05    | Análise dos dados do questionário no R                                                           | Todos                  | ⛔   |
