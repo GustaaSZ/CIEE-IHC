@@ -18,10 +18,10 @@ Período          | Atividade                                                   
 ### 🏁 Sprint 3 (22/04 - 13/05)
 Período          | Atividade                                                                                        | Responsáveis              | Status       |
 -----------------|--------------------------------------------------------------------------------------------------|---------------------------|--------------|
-22/04 - 23/05    | Possíveis correções do questionário de acordo com o feedback do professor                        | Gustavo                   | ✅   |
-22/04 - 05/05    | Abertura do questionário para respostas                                                          | Mateus | ⛔    |
-05/05 - 07/05    | Batalha #1 (Até território 9)                                                                    | Todos | ⛔     |
-05/05 - 13/05    | Análise dos dados do questionário no R                                                           | Todos | ⛔   |
+22/04 - 30/04   | Possíveis correções do questionário de acordo com o feedback do professor                        | Gustavo                   | ✅   |
+01/05 - 08/05    | Abertura do questionário para respostas                                                          | Mateus | ⏳️    |
+05/05 - 07/05    | Batalha #1 (Até território 8)                                                                    | Todos | ⛔     |
+09/05 - 13/05    | Análise dos dados do questionário no R                                                           | Todos | ⛔   |
 
 ### 🏁 Sprint 4 (14/05- 04/06)
 Período          | Atividade                                                                                        | Responsáveis              | Status       |
