@@ -26,8 +26,8 @@ Período          | Atividade                                                   
 ### 🏁 Sprint 4 (13/05- 04/06)
 Período          | Atividade                                                                                        | Responsáveis              | Status       |
 -----------------|--------------------------------------------------------------------------------------------------|---------------------------|--------------|
-13/05 - 17/05    | Análise dos dados do questionário no R                                                           | Todos | ⛔   |
-18/05 - 18/05    | Elaboração dos slides de apresentação do Horizonte                                               | Artur, Lucas e Mateus     | ⛔    |
+13/05 - 17/05    | Análise dos dados do questionário no R                                                           | Gustavo | ✅   |
+18/05 - 18/05    | Elaboração dos slides de apresentação do Horizonte                                               | Artur, Lucas e Mateus     | ⏳    |
 19/05 - 19/05    | Reunião para inicialização da prototipação no Figma e elaboração da apresentação parcial         | Todos                     | ⛔    |
 21/05 - 04/06    | Prototipação no Figma                                                                            | Todos                     | ⛔    |
 19/05 - 21/05    | Caminhada (Apresentação parcial dos trabalhos)                                                   | Dylan, Gustavo, Sophia   | ⛔    |
